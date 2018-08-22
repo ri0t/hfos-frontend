@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fri0t%2Fhfos-frontend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fri0t%2Fhfos-frontend?ref=badge_shield)
+
 HFOS - The Hackerfleet Operating System
 =======================================
 
@@ -73,3 +75,7 @@ This is migrating over to hfos-frontend submodule.
 
 
 -- :boat: :+1:
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fri0t%2Fhfos-frontend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fri0t%2Fhfos-frontend?ref=badge_large)
